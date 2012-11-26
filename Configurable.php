@@ -1,7 +1,7 @@
 <?php
 namespace Wax\Behaviours;
 
-trait Configuration{
+trait Configurable{
   protected static $_defaults;
   protected $_settings;
   
